@@ -1,11 +1,11 @@
 1:HL["/_next/static/media/0a7d1127b1849c3a-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:HL["/_next/static/media/c9a5bc6a7c948fb0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-3:HL["/_next/static/css/1b886510aeacc998.css","style"]
-0:["CDcyXGIbq_HWGqUEgpjWe",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L4",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/1b886510aeacc998.css","precedence":"next"}]],"$L5"]]]]
-6:I{"id":2588,"chunks":["185:static/chunks/app/layout-74937e23a4c79dd2.js"],"name":"","async":false}
-7:I{"id":5655,"chunks":["185:static/chunks/app/layout-74937e23a4c79dd2.js"],"name":"","async":false}
-8:I{"id":1862,"chunks":["272:static/chunks/webpack-a56652b8dfef16c3.js","120:static/chunks/587a69a5-8e14ba5bf44b43af.js","244:static/chunks/244-cb756d1b606e7f54.js"],"name":"","async":false}
-9:I{"id":5315,"chunks":["272:static/chunks/webpack-a56652b8dfef16c3.js","120:static/chunks/587a69a5-8e14ba5bf44b43af.js","244:static/chunks/244-cb756d1b606e7f54.js"],"name":"","async":false}
+3:HL["/_next/static/css/0140bfbbd0c3caad.css","style"]
+0:["XYaN3YVhEUJNhmShAbblf",[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],"$L4",[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0140bfbbd0c3caad.css","precedence":"next"}]],"$L5"]]]]
+6:I{"id":2588,"chunks":["185:static/chunks/app/layout-dfcc70c5bc2dabd3.js"],"name":"","async":false}
+7:I{"id":5655,"chunks":["185:static/chunks/app/layout-dfcc70c5bc2dabd3.js"],"name":"","async":false}
+8:I{"id":1862,"chunks":["272:static/chunks/webpack-df8feb35696b0841.js","120:static/chunks/587a69a5-8e14ba5bf44b43af.js","244:static/chunks/244-cb756d1b606e7f54.js"],"name":"","async":false}
+9:I{"id":5315,"chunks":["272:static/chunks/webpack-df8feb35696b0841.js","120:static/chunks/587a69a5-8e14ba5bf44b43af.js","244:static/chunks/244-cb756d1b606e7f54.js"],"name":"","async":false}
 a:I{"id":4152,"chunks":["503:static/chunks/7d0d79b2-705f9b40e9fa84d3.js","73:static/chunks/73-cee674e638a6148c.js","788:static/chunks/788-a3238f367f844ee5.js","931:static/chunks/app/page-935dcfe364235620.js"],"name":"","async":false}
 b:I{"id":7728,"chunks":["503:static/chunks/7d0d79b2-705f9b40e9fa84d3.js","73:static/chunks/73-cee674e638a6148c.js","788:static/chunks/788-a3238f367f844ee5.js","931:static/chunks/app/page-935dcfe364235620.js"],"name":"ShowLottie","async":false}
 c:I{"id":7728,"chunks":["503:static/chunks/7d0d79b2-705f9b40e9fa84d3.js","73:static/chunks/73-cee674e638a6148c.js","788:static/chunks/788-a3238f367f844ee5.js","931:static/chunks/app/page-935dcfe364235620.js"],"name":"Button","async":false}
