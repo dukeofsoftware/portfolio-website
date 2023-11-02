@@ -7,33 +7,31 @@
 import { StringKeyValueType } from '../types';
 
 export const socialLinks: StringKeyValueType = {
-  facebook: 'https://www.facebook.com/vatsalsinghkv',
-  instagram: 'https://www.instagram.com/vatsalsinghkv',
-  twitter: 'https://twitter.com/vatsalsinghkv',
-  github: 'https://github.com/vatsalsinghkv',
-  linkedin: 'https://www.linkedin.com/in/vatsalsinghkv/',
+  instagram: 'https://www.instagram.com/thejavasciptbender',
+  github: 'https://github.com/dukeofsoftware',
+  linkedin: 'https://www.linkedin.com/in/furkan-emre-kozan/',
 };
 
 export const author = {
-  name: 'Vatsal Singh',
-  email: 'vatsalsinghkv@gmail.com',
+  name: 'Furkan Emre Kozan',
+  email: 'business@furkanemrekozan.tech',
 };
 
 export const seoData = {
-  title: 'Vatsal Singh | Front-End Developer',
+  title: 'Furkan Emre Kozan | Full-Stack Developer',
   description:
-    'Vatsal Singh is a front-end developer who specializes in building (and occasionally designing) exceptional visual interfaces.',
+    'Furkan Emre Kozan is a full-stack developer who specializes in  building (and occasionally designing) exceptional digital experiences. Currently, he is focused on building accessible, human-centered products at Upwork.  ',
   author: author.name,
   image:
     'https://user-images.githubusercontent.com/68834718/217467445-0b0d2d63-f8ad-4702-8474-814eb2cbb3be.png',
-  url: 'https://vatsalsinghkv.vercel.app/',
+  url: 'https://furkanemrekozan.tech',
   keywords: [
-    'Vatsal',
-    'Vatsal Singh',
-    '@vatsalsinghkv',
-    'vatsalsinghkv',
+    'Furkan Emre Kozan',
+    'Furkan',
+    '@dukeofsoftware',
+    'DukeEmree',
     'Portfolio',
-    'Vatsal Portfolio ',
-    'Vatsal Singh Portfolio',
+    'Furkan Emre Kozan Portfolio ',
+    
   ],
 };
