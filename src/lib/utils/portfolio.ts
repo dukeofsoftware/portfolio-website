@@ -71,7 +71,7 @@ export const aboutSection: AboutSectionType = {
       'TypeScript',
     ],
   },
-  img: '/furkan-emre-kozan.png',
+  img: '/furkan-emre-kozan.jpg',
 };
 
 // * Skills Section
