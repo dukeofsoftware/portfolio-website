@@ -3,10 +3,10 @@ import {
   AboutSectionType,
   ContactSectionType,
   ExperienceSectionType,
-  FooterSectionType,
   HeroSectionType,
   NavbarSectionType,
   ProjectsSectionType,
+  Section,
   SkillsSectionType,
   SocialSectionType,
 } from '@/lib/types/sections';
@@ -275,6 +275,6 @@ export const socialSection: SocialSectionType = {
 
 // Footer Section
 
-export const footerSection: FooterSectionType = {
+export const footerSection: Section = {
   title: 'Design & Built by Vatsal Singh',
 };

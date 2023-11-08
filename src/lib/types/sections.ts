@@ -67,4 +67,3 @@ export interface SocialSectionType {
   socialLinks: SocialLinkType[];
 }
 
-export interface FooterSectionType extends Section {}

@@ -1,5 +1,5 @@
-import { FooterSectionType } from '@/lib/types/sections';
+import { Section } from '../types/sections';
 
-export const footerSection: FooterSectionType = {
-    title: 'Design & Built by Vatsal Singh',
+export const footerSection: Section = {
+  title: 'Design & Built by Vatsal Singh',
 };
