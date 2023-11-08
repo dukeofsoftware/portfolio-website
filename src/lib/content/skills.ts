@@ -33,7 +33,6 @@ export const skillsSection: SkillsSectionType = {
         { name: 'redux', icon: 'logos:redux' },
         { name: 'sql', icon: 'vscode-icons:file-type-sql' },
         { name: 'mongodb', icon: 'vscode-icons:file-type-mongo' },
-        { name: 'postgresql', icon: 'logos:postgresql ' },
         { name: 'amazon', icon: 'cib:amazon-aws' },
 
         { name: 'npm', icon: 'vscode-icons:file-type-npm' },
