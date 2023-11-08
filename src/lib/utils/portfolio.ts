@@ -43,7 +43,7 @@ export const heroSection: HeroSectionType = {
   title: 'furkan emre kozan.',
   tagline: 'I build things for the web.',
   description:
-    " I'm a high school student based in Istanbul, Turkey specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.",
+  "I am an active student at Haydarpaşa High School in various fields. I actively take part in Haydarpaşa High School's FRC, MUN, Academy, Informatics clubs, participate in events and develop projects. I like to help and support people. My biggest hobby is software development.",
 
   specialText: 'Currently available for a job & freelance',
   // either button or simple text (information)

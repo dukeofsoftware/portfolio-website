@@ -3,43 +3,42 @@ import { ExperienceSectionType } from '@/lib/types/sections'
 export const experienceSection: ExperienceSectionType = {
     title: "where i've worked",
     experiences: [
-    {
-        company: 'Pixelwand',
-        companyUrl: 'https://www.pixelwand.live/',
-        role: 'frontend developer',
-        started: 'july 2023',
+      {
+        company: 'Haydarpaşa Panthers',
+        companyUrl: 'https://team9231.com/#portfolio-section',
+        role: 'Software Developer',
+        started: 'august 2023',
         upto: 'present',
         tasks: [
-        'Implemented UI components with React & Next.js, TypeScript & Tailwind CSS.',
-        'Developed and maintained design systems that separates design logic.',
-        'Understanding client needs and proposing effective solutions, which also involves strategising and planning.',
-        'Lead a cross-functional team of developers and designers in the creation of a SaaS product.',
+          'Developing FRC robots using Java.',
+          'Automating the robot using sensors.',
+          'Doing social responsibility projects.',
         ],
-    },
-    {
-        company: 'SHMTH Capital',
-        companyUrl: 'https://shmth.capital/',
-        role: 'frontend developer intern',
-        started: 'april 2023',
-        upto: 'july 2023',
+      },
+      {
+        company: 'Haydarpaşa IT Club',
+        companyUrl: '#',
+        role: 'Software Development Mentor',
+        started: 'march 2023',
+        upto: 'present',
         tasks: [
-        'Built trading platform using TradingView library.',
-        'Designed SHMTH Capital website with Next.js, TypeScript & TailwindCSS.',
-        'Collaborated with diverse nationwide team of developers.',
+          'Teaching students how to code.',
+          'Developing projects for our school.',
+          'Train students for FRC competitions.',
         ],
-    },
-    {
-        company: 'webnetics',
-        companyUrl: 'https://webnetic.vercel.app/',
-        role: 'frontend developer',
-        started: 'june 2022',
-        upto: 'january 2023',
+      },
+      {
+        company: 'Haydarpaşa Academy',
+        companyUrl: 'https://academy.haydarpasa.k12.tr',
+        role: 'Team Captain',
+        started: 'may 2023',
+        upto: 'present',
         tasks: [
-        'Built static frontend UI from the ground up using Next.js and Figma handover designs.',
-        'Architected the folder structure and initial setup of the app.',
-        'Reviewed and approved multiple Pull requests.',
-        'Worked remotely with a distributed team from around the globe, collaborating closely using screen-sharing.',
+          'Leading the team.',
+          'Managing the team.',
+          "Developing the team's website.",
         ],
-    },
+      },
     ],
-};
+  };
+  
